@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Faruk. :wave:
 
-## Java Developer | Project Supervisor
+## Flutter Developer | Project Supervisor
 
 <font color="red">Turkish <code>coffe</code> is my life ☕  </font>
 <hr>
