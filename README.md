@@ -27,7 +27,7 @@
 
 [linkedin]:https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7elenk-007605207/
 
-selam
+
 
 
 
