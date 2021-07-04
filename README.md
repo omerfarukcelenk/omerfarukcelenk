@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/Qv7y2Tl4ki7Ru/giphy.gif?cid=ecf05e47s265ot3a2xj192jp7yoatjverbhe6imto2ok08t6&rid=giphy.gif&ct=g" align="right" width="300" height="250">
+<img src="https://dosya.co/oncv4xk3f6vw/intro.gif.html" align="right" width="300" height="250">
 
 ### Hi there, I'm Faruk. :wave:
 
