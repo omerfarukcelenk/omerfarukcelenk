@@ -1,4 +1,4 @@
-<img src="file:///C://Users/omerb/Videos/intro.gif" align="right" width="300" height="250">
+<img src="file:///C://Users/omerb/Videos/intro.mp4" align="right" width="300" height="250">
 
 ### Hi there, I'm Faruk. :wave:
 
