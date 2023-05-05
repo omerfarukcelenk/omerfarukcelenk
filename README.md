@@ -1,4 +1,4 @@
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/fun/dancingcat_5oexbnnp.gif" align="right" width="300" height="250">
+<img src="https://phoneky.co.uk/thumbs/screensavers/down/fun/dancingcat_5oexbnnp.gif" align="right" width="300" background-color="black" height="250">
 
 ### Hi there, I'm Faruk. :wave:
 
