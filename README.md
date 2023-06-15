@@ -61,6 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukcelenk&layout=compact&show_icons=true&theme=nord">
   </a>
   </p> 
+ </p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omerfarukcelenk&theme=nord)](https://github.com/omerfarukcelenk)
 </div>
