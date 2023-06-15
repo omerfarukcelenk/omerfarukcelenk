@@ -39,15 +39,29 @@
 [linkedin]:https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7elenk-007605207/,
 
 
+<p align="center">
+  <p>
+    <a href="https://github.com/omerfarukcelenk" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=omerfarukcelenk&count_private=true&show_icons=true&theme=nord">
+      </a>
+</p>
+  <p>
+  <a href="https://github.com/omerfarukcelenk" target="_blank">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukcelenk&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  </a>
+  </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omerfarukcelenk&theme=dracula)](https://git.io/streak-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omerfarukcelenk&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/omerfarukcelenk)
 
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=Sometimes+I+feel+so+alone%2C+I+just+don't+know;Feels+like+I+been+down+this+road+before;So+lonely+and+cold%2C+it's+like+something+takes+over+me;As+soon+as+I+go+home+and+close+the+door;Kinda+feels+like+d%C3%AAj%C3%A2+vu;I+wanna+get+away+from+this+place%2C+I+do;But+I+can't+and+I+won't%2C+say+I+try%2C+but+I+know+that's+a+lie;'Cause+I+don't+and+why%2C+I+just+don't+know)](https://youtu.be/NxkSEJ6Mv3M)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerfarukcelenk&theme=radical)
+  <p>
+  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukcelenk&layout=compact&show_icons=true&theme=nord">
+  </a>
+  </p> 
 
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukcelenk&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omerfarukcelenk&theme=nord)](https://github.com/omerfarukcelenk)
+</div>
 
