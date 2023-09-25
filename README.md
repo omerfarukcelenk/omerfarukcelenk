@@ -39,12 +39,7 @@
 [linkedin]:https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7elenk-007605207/,
 
 
-<p align="center">
-  <p>
-    <a href="https://github.com/omerfarukcelenk" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=omerfarukcelenk&count_private=true&show_icons=true&theme=nord">
-      </a>
-</p>
+
   <p>
   <a href="https://github.com/omerfarukcelenk" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukcelenk&theme=nord&date_format=j%20M%5B%20Y%5D" />
