@@ -8,11 +8,11 @@
 <hr>
 
 ### 💫 About Me
-- [cite_start]🎓 **Akdeniz University** Computer Programming graduate[cite: 36, 37].
-- [cite_start]📱 Specialized in **Flutter**, **PHP**, and **JavaScript**[cite: 7, 45].
-- [cite_start]🤖 Experienced in **AI integration** (Google Gemini API) and modern architectural design[cite: 8, 47, 59].
-- [cite_start]☕ Creator of **FinCanım**: An AI-supported Turkish coffee fortune-telling app[cite: 55, 57].
-- [cite_start]📊 Developer of **Dynamic Tube**: Advanced YouTube channel analysis platform[cite: 69, 70].
+- 🎓 **Akdeniz University** Computer Programming graduate[cite: 36, 37].
+- 📱 Specialized in **Flutter**, **PHP**, and **JavaScript**[cite: 7, 45].
+- 🤖 Experienced in **AI integration** (Google Gemini API) and modern architectural design[cite: 8, 47, 59].
+- ☕ Creator of **FinCanım**: An AI-supported Turkish coffee fortune-telling app[cite: 55, 57].
+- 📊 Developer of **Dynamic Tube**: Advanced YouTube channel analysis platform[cite: 69, 70].
 
 ### 🛠 Tech Stack
 **Mobile & Frontend**
